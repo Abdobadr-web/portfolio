@@ -87,6 +87,19 @@ img {
     object-fit: cover;
 }
 
+.top_section h2{
+    text-align: center;
+    color: var(--color-prim);
+    margin-bottom: 5rem;
+}
+.top_section h5{
+    text-align: center;
+    color: var(--color-light);
+}
+
+/* ============== responsive =======================*/
+
+
 /* ============= media queries tablet ============ */
 
 @media (max-width: 1024px) {
@@ -108,5 +121,9 @@ img {
 
     section {
     padding-top: 5rem;
-}
+    }
+
+    .top_section {
+        margin-bottom: 2rem;
+    }
 }

@@ -52,16 +52,19 @@
     font-size: 25px;
     position: absolute;
     left: -35px;
-    bottom: 30px;
+    bottom: 20px;
 }
 
-/* responsive */
+/* ============== responsive =======================*/
+
+/* ============= media queries tablet ============ */
 
 @media (max-width: 1024px) {
     .home {
         height: auto;
     }
 }
+/* ============= media queries mobile ============ */
 
 @media (max-width: 600px) {
     .home {
