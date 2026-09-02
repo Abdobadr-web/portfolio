@@ -5,6 +5,8 @@ import Contact from './components/contact/Contact'
 import Projects from './components/projects/Projects'
 import Services from './components/services/Services'
 import Footer from './components/footer/Footer'
+import Skill from './components/skill/Skill'
+
 
 
 function App() {
@@ -12,8 +14,9 @@ function App() {
   return (
     <>
       <Home />
-      <Nav />
       <About />
+      <Skill />
+      <Nav />
       <Contact />
       <Projects />
       <Services />
