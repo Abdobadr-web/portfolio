@@ -62,8 +62,8 @@ function Projects() {
         <>
             <section className="projects">
                 <div className="top_section">
-                    <h5>Get To Know</h5>
-                    <h2>About Me</h2>
+                    <h5>My Recent Work</h5>
+                    <h2>Portfolio</h2>
                 </div>
             </section>
 
