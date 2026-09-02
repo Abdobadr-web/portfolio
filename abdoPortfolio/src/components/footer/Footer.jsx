@@ -20,9 +20,9 @@ function Footer() {
                 </ul>
 
                 <div className="footer_social">
-                    <a href="" target="_blank"><SiFacebook /></a>
-                    <a href="" target="_blank"><FaInstagram /></a>
-                    <a href="" target="_blank"><BsWhatsapp /></a>
+                    <a href="https://www.facebook.com/share/1EmqknE6oS/" target="_blank"><SiFacebook /></a>
+                    <a href="https://www.instagram.com/bross_web_?igsi=MTZvNm93M2pydHZm" target="_blank"><FaInstagram /></a>
+                    <a href="https://api.whatsapp.com/send?phone=201092706152" target="_blank"><BsWhatsapp /></a>
                 </div>
 
                 <div className="copyright">

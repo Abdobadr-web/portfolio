@@ -44,7 +44,7 @@ function About() {
 
                         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Perferendis quo ab ex similique, soluta iste maxime iusto! Ipsa, eveniet voluptatum maxime sed illum dolorum expedita error placeat quisquam vitae dignissimos!</p>
 
-                        <a href="#" className='bttn bttn_prim' >Let's Talk</a>
+                        <a href="#contact" className='bttn bttn_prim' >Let's Talk</a>
                     </div>
                 </div>
             </section>

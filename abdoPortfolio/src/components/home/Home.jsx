@@ -17,7 +17,7 @@ import HomeIcon from './HomeIcon'
 
                 <div className="btns">
                     <a href={CV} className="bttn" download>Download Cv</a>
-                    <a href="#" className="bttn bttn-two">Let's Talk</a>
+                    <a href="#contact" className="bttn bttn-two">Let's Talk</a>
                 </div>
                 <div className="me">
                     <img src={Me} />
