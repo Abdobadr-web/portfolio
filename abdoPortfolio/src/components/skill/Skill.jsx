@@ -70,7 +70,7 @@ const skillsData = [
 function Skill() {
     return (
         <>
-        <section className='skills'>
+        <section className='skills' id='skill'>
             <div className="top_section">
                 <h5>What Skill I Have</h5>
                 <h2>Experience</h2>
